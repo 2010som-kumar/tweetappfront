@@ -1,0 +1,16 @@
+.tweetButtonE{
+    background-color: rgb(29,155,240);
+    border-radius: 20px;
+    width: 100px;
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+  }
+ .tweetButtonD {
+    background-color: darkgray;
+    border-radius: 20px;
+    width: 100px;
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+  }
